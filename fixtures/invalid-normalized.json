@@ -1,0 +1,15 @@
+{
+  "areas": [
+    {
+      "area_id": "synthetic-invalid",
+      "total": 10,
+      "english_only": 4,
+      "home_language_total": 6,
+      "limited_english_total": 2,
+      "groups": [
+        {"id": "Spanish", "speakers": 4, "limited_english": 5},
+        {"id": "spanish", "speakers": 3, "limited_english": 0}
+      ]
+    }
+  ]
+}
